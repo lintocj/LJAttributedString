@@ -1,15 +1,15 @@
 //
 //  AttributedString.swift
-//  LJAttributedString
+//  AttributedString
 //
-//  Created by linto jacob on 18/07/20.
-//  Copyright © 2020 linto. All rights reserved.
+//  Created by Linto JAcob on 09/09/19.
+//  Copyright © 2019 Linto. All rights reserved.
 //
 
 import UIKit
 
 
-extension NSMutableAttributedString {
+public extension NSMutableAttributedString {
     
     
     class func getAttributedString(fromString string: String) -> NSMutableAttributedString {
@@ -171,4 +171,3 @@ extension NSMutableAttributedString {
     }
     
 }
-

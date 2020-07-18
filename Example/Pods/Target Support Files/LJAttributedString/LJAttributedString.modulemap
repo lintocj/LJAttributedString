@@ -1,0 +1,6 @@
+framework module LJAttributedString {
+  umbrella header "LJAttributedString-umbrella.h"
+
+  export *
+  module * { export * }
+}

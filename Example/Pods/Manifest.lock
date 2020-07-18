@@ -1,0 +1,16 @@
+PODS:
+  - LJAttributedString (1.0.0)
+
+DEPENDENCIES:
+  - LJAttributedString (from `../LJAttributedString/`)
+
+EXTERNAL SOURCES:
+  LJAttributedString:
+    :path: "../LJAttributedString/"
+
+SPEC CHECKSUMS:
+  LJAttributedString: e3e7f79b7580b7dcbaae8607b41f70ee6eb7ffea
+
+PODFILE CHECKSUM: 1a816b6fb30f77b252bc326017474f7a346e9e8d
+
+COCOAPODS: 1.9.3
